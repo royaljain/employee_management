@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Employee Management</string>
+    <string name="progress_msg_loading">Loading…</string>
+    <string name="progress_msg_auth">Authenticating…</string>
+    <string name="progress_msg_auth_success">Login success…</string>
+    <string name="progress_msg_auth_failed">Authentication failed…</string>
+    <string name="progress_msg_default_menu">Loading store menu…</string>
+    <string name="progress_msg_default_menu_success">Menu loaded successfully…</string>
+    <string name="api_calling">Fetching data…</string>
+    <string name="shop_id_hint">Store ID</string>
+    <string name="success_text">Success</string>
+    <string name="failed_text">Something went wrong.</string>
+    <string name="error_text">Error</string>
+    <!--Login-->
+    <string name="login_header_primary_text">SIGN IN</string>
+    <string name="login_header_secondary_text">enter your data</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button_text">LOG IN</string>
+
+    <!-- Camera -->
+    <string name="camera_snap_button_text">Click a picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="camera_header_text_secondary">Don\'t like searching? let us do it for you.</string>
+    <string name="camera_header_text_primary">Click a picture :)</string>
+    <string name="label_exit">Exit</string>
+    <string name="description_sure_exit">Are you sure you want to exit?</string>
+
+    <!-- Contact -->
+    <string name="contact_header_text_secondary">Sometimes it\'s good to be in touch.</string>
+    <string name="contact_header_text_primary">Contact Details</string>
+    <string name="contact_proceed_button">Proceed</string>
+    <string name="contact_skip_button">Skip  > </string>
+    <string name="contact_email_hint">Email (Optional)</string>
+    <string name="contact_phone_hint">Phone (Optional)</string>
+    <string name="contact_company_hint">Company name (Optional)</string>
+    <string name="label_skip">Skip</string>
+    <string name="description_sure_skip">Please enter the details, we have exciting offer. Are you sure you want to skip details? </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="cart">CART</string>
+    <string name="_0">0</string>
+    <string name="we_ve_got_you_the_menu">We\'ve got you the menu</string>
+    <string name="biryani">Biryani?</string>
+    <string name="you_seem_to_have_searched_for">You seem to have searched for,</string>
+
+
+</resources>

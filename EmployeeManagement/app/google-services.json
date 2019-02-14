@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "947926831690",
+    "firebase_url": "https://shopassistant-9e81e.firebaseio.com",
+    "project_id": "shopassistant-9e81e",
+    "storage_bucket": "shopassistant-9e81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947926831690:android:8aa62b497b75041b",
+        "android_client_info": {
+          "package_name": "ai.miailabs.android.shopassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947926831690-os9mm7br5ppc8p4a95ojptotq711rjjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.miailabs.android.shopassistant",
+            "certificate_hash": "1fa2cc0a5d53d720ee83a0493cbe3cd4c028297c"
+          }
+        },
+        {
+          "client_id": "947926831690-rfov9jmuliei0gm8chsvr5dfqnagg46b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.miailabs.android.shopassistant",
+            "certificate_hash": "bf309ca3c4ffea54f24bd0dbda3e911dc7dd92eb"
+          }
+        },
+        {
+          "client_id": "947926831690-1akv9cl4hc4amkd55dha4qb0jp8t7om1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.miailabs.android.shopassistant",
+            "certificate_hash": "ceedaa04ca9c7cefb2ca797e087664990cf42b06"
+          }
+        },
+        {
+          "client_id": "947926831690-h4s2jke257u8k2eqe813qvip4q3tgfpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.miailabs.android.shopassistant",
+            "certificate_hash": "63d3dfbd206a35edd761263056c8140191200201"
+          }
+        },
+        {
+          "client_id": "947926831690-uhletk7e98rlds9m6lq4nq78b4ahhdlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxYrtVr2BoogM6BxZELUtKj7Efw1kacM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947926831690-uhletk7e98rlds9m6lq4nq78b4ahhdlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947926831690:android:d2a836018839b679",
+        "android_client_info": {
+          "package_name": "tfulabs.android.employeemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947926831690-uhletk7e98rlds9m6lq4nq78b4ahhdlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxYrtVr2BoogM6BxZELUtKj7Efw1kacM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
